@@ -1,6 +1,6 @@
 Privacy Policy for Neon Physics Game (Neon Ball Drop)
 
-Effective Date: 2026-04-03
+Effective Date: 2026-04-28
 
 1. Introduction
 Welcome to Neon Physics Game ("the Game" or "the App"). This Privacy Policy explains how your personal information is collected, used, and shared when you play the Game. By using the Game, you agree to the collection and use of information in accordance with this policy.
